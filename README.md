@@ -84,6 +84,7 @@ Learning_Path_Generator/
 ├── model.py
 ├── prompt.py
 ├── parser.py
+├── evaluator.py
 ├── .env
 ├── requirements.txt
 ├── README.md
